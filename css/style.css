@@ -1,0 +1,39 @@
+body{
+  font-size: 16px;
+  line-height: 24px;
+  color: #283136;
+  font-weight: 400;
+  font-family: "Roboto"
+}
+
+.feature-header {
+  font-size: 24px;
+  line-height: 30px;
+  color: #000000;
+  font-weight: 400;
+  font-family: "Roboto"
+}
+
+.advantages-header, .write-us-header{
+  font-size: 45px;
+  line-height: 45px;
+  color: #000000;
+  font-weight: 400;
+  font-family: "Roboto"
+}
+
+.slider-header{
+  font-size: 55px;
+  line-height: 55px;
+  color: #000000;
+  font-weight: 400;
+  font-family: "Roboto"
+}
+
+.contacts-header, .main-header, .inner-content-header{
+  font-size: 18px;
+  line-height: 30px;
+  color: #000000;
+  font-weight: 400;
+  font-family: "Roboto"
+}
